@@ -1,4 +1,4 @@
-# Fluid Dynamics Benchmarks
+# Incomnopressible Navier Stokes solver
 
 This repository contains a solver for the incompressible Navier-Stokes equations using Chorin's projection method and a predictor-corrector algorithm. The momentum equations are solved without the pressure term, and the pressure is computed using the Poisson equation derived from taking the divergence of the continuity equation and introducing it into the momentum equations. Finally, the velocity fields are corrected by applying the pressure term. The repository includes two benchmark simulations commonly used in fluid dynamics and computational fluid dynamics (CFD) research: cavity lid-driven flow and channel flow. Open field is a preamble to set a wind farm. Each simulation is set up within a specific domain with appropriate boundary conditions.
 ---
