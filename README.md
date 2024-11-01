@@ -4,7 +4,7 @@ This repository contains a solver for the incompressible Navier-Stokes equations
 ---
 
 ## `cavity.py` - Cavity Lid-Driven Flow Benchmark
-
+![Alt text for the image](images/Cavity.png)
 This repository includes a benchmark simulation of lid-driven cavity flow within a square domain. This setup is commonly used to test numerical solvers for incompressible flows.
 
 ### Domain Setup
@@ -46,7 +46,7 @@ This code contains a benchmark simulation of pressure-driven flow through a rect
 ---
 
 ## `openfield.py` - Open Field Benchmark – Pre-Turbine Wind Farm Simulation
-
+![Alt text for the image](images/Openfield.png)
 This repository includes a pre-turbine wind farm simulation, setting up an open field with an imposed inlet velocity. This setup is suitable for initializing flow conditions before introducing turbines.
 
 ### Domain Setup
