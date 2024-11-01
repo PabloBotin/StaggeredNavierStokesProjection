@@ -24,7 +24,7 @@ This repository includes a benchmark simulation of lid-driven cavity flow within
 ---
 
 ## `channel.py` - Channel Flow Benchmark – Pressure-Driven Flow in a Pipe
-![Alt text for the image](channel.png)
+![Alt text for the image](images/Channel.png)
 This code contains a benchmark simulation of pressure-driven flow through a rectangular domain, modeling fluid flow in a pipe with static upper and lower walls.
 
 ### Domain Setup
